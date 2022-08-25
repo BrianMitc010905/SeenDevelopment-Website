@@ -1,28 +1,7 @@
-# Discord bot website
+# WELCOME!! 
+---
+# This is Seen Development Website
+---
+## Please If you use this Give Me Credit
 
-A very nice a clean website made for your discord bot!
-
-![Screenshot](https://media.discordapp.net/attachments/783040336745594902/793528630817980476/Over_view.gif)
-
-## Getting Started
-
-Download or fork the repo for getting started
-
-### Installing
-
-Download or fork the repo
-
-```
-git clone https://github.com/Kultz-hub/v2-discord-bot-website-template.git
-```
-
-Open index.html and edit whatever you want!
-
-### Another website
-[Make sure to check the v1 website too!](https://github.com/Kultz-hub/Discord-bot-website-template)
-
-## Creator
-
-[Kultz](https://discord.gg/xyKPare)
-
-### Make sure to give me a star ⭐ :)
+`2022 © Seen Development`
